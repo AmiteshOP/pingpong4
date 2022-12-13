@@ -1,0 +1,31 @@
+.div_footer
+{
+    background-color: rgb(4, 121, 224);
+    line-height: 2;
+    margin: 0px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 3px solid white;
+    box-shadow: 5px 5px 5px white;
+}
+
+.instructions_image
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video
+{
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+
+.model-dialog
+{
+width: 90%;
+}
